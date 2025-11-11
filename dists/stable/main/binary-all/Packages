@@ -1,0 +1,8 @@
+Package: flix-cli
+Version: 1.8.0
+Architecture: all
+Maintainer: Swarnaditya Singh <demonkingswarn@protonmail.com>
+Depends: python, ffmpeg, fzf
+Description: Stream and browse movies and shows directly from your terminal
+Filename: flix-cli_1.8.0_all.deb
+Size: 14339204
