@@ -1,0 +1,8 @@
+Origin: DemonKingSwarn
+Label: flix-cli
+Suite: stable
+Codename: stable
+Version: 1.8.0
+Architectures: all
+Components: main
+Description: Personal Termux repo for flix-cli
