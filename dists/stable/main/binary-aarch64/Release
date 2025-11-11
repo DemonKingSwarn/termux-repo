@@ -6,3 +6,7 @@ Version: 1.8.0
 Architectures: all
 Components: main
 Description: Personal Termux repo for flix-cli
+
+SHA256:
+ 2335a5bf50d7cdb42c18f430d95ecf0d453625edee51ee1a5e809936f4d8ae5c 266 Packages
+ 8775f340d310e0df8d56d580af5740de192db4fbcd3c8acce8a7e75008b1557f 231 Packages.gz
