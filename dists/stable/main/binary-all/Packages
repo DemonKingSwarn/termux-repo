@@ -6,3 +6,4 @@ Depends: python, ffmpeg, fzf
 Description: Stream and browse movies and shows directly from your terminal
 Filename: flix-cli_1.8.0_all.deb
 Size: 14339204
+SHA256: ef4ca6c54860242d86bfb98140d500bd72a07646a165e54fa27f5408e99786e4
